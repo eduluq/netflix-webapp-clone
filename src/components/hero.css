@@ -1,0 +1,56 @@
+.hero {
+  position: relative;
+}
+
+.hero__bg {
+  width: 100%;
+}
+
+.hero__award-headline {
+  position: absolute;
+  top: 9.4vw;
+  left: -3vw;
+  width: 45.24vw;
+}
+
+.hero__award-subtitle {
+  box-sizing: border-box;
+  padding-left: 4%;
+  position: absolute;
+  top: 35%;
+  left: 0;
+}
+
+.hero__award-subtitle img {
+  width: 90%;
+  margin-bottom: 1.2vw;
+}
+
+.hero__award-subtitle p {
+  font-size: 1.4vw;
+  color: #fff;
+  font-weight: 700;
+  margin-bottom: 2vw;
+}
+
+.hero__links button {
+  padding: .75em 2.3em;
+  margin-right: .75em;
+  background-color: rgba(51,51,51,.4);
+  border: 1px solid rgba(255,255,255,.2);
+  border-radius: 0.2vw;
+  font-size: 1.1vw;
+  font-weight: 700;
+  color: #fff;
+  cursor: pointer;
+  outline: none;
+}
+
+.hero__links button:hover {
+  background-color: #e6e6e6;
+  color: #000;
+}
+
+.hero__links button i {
+  margin-right: 7px;
+}

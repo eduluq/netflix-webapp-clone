@@ -1,0 +1,10 @@
+body {
+  background: #000;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.app {
+  font-family: 'Helvetica Neue', 'Helvetica', 'sans-serif';
+  -webkit-font-smoothing: antialiased;
+}

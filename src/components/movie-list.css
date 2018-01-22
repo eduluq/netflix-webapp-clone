@@ -1,0 +1,23 @@
+.movie-list {
+  padding: 0 4%;
+  margin: 30px 0;
+  overflow: scroll;
+}
+
+.movie-list__title {
+  font-size: 1.1rem;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.movie-list__items {
+  display: flex;
+  flex-wrap: nowrap;
+  box-sizing: border-box;
+  margin: calc(300px / 8) 0;
+  transition: transform 500ms;
+}
+
+.movie-list__items:hover {
+  transform: translateX(-25px);
+}

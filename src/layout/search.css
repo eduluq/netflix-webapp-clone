@@ -1,0 +1,8 @@
+.movies-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.movies-grid .movie-card {
+  margin-bottom: 20px;
+}
