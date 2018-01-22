@@ -5,4 +5,4 @@ This is a Mini Netflix Webapp Clone built with React and https://www.themoviedb.
 I'm actually working on it to be Mobile Responsive.
 
 ## Demo
-https://eduluq.github.io/netflix-webapp-clone/
+eduluq-netflix.surge.sh
